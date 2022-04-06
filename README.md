@@ -1,5 +1,2 @@
-### Welcome to my bio
-
-This is my first GitHub account!
-
-:)
+hello there. 
+this is a simple project i am working on to learn disocrd.py
